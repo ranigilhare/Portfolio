@@ -2499,6 +2499,9 @@ footer .copyright span::after {
 footer .copyright span:last-child::after {
 	display: none;
 }
+#contact .tab-full p {
+	color: #fff;
+}
 
 /**
  * responsive:
